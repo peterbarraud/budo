@@ -50,7 +50,7 @@ Now, you can use the following as your HTML:
 <script src="static/bundle.js"></script>
 ```
 
-Also see the [`--serve` option](#multiple entries).
+Also see the [`--serve` option](#multiple-entries).
 
 ## local installation
 
